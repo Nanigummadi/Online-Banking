@@ -1,0 +1,6 @@
+{
+  "name": "Online Banking & Digital Wallet System",
+  "description": "A production-grade full-stack online banking and digital wallet system featuring JWT authentication, wallet management, atomic money transfers, transaction history, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
