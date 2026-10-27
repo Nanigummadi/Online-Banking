@@ -1,8 +1,18 @@
+# IDE settings
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Compiled Java binaries
+bin/
+target/
+
+# Node/Bun dependencies
 node_modules/
-build/
 dist/
-coverage/
-.DS_Store
-*.log
-.env*
-!.env.example
+
+# Sensitive Environment variables
+.env
+.env.local
